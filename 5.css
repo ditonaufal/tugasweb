@@ -1,0 +1,26 @@
+body {margin: 0; font-family: sans-serif;}
+header {background: #292929; padding-bottom: 10px}
+header #contact p {color: #FFF ; float: left; margin-left: 30px}
+header #contact p a{text-decoration: none; color: blue;}
+
+header nav {display: flex; justify-content: center; background: #FFF}
+header nav ul {list-style: none; margin: 0; padding: 16px; font-size: 16px;}
+header nav ul li {float: left; font-size: 15px; padding-top: 5	px;}
+header nav a{color: #000; text-decoration: none; padding: 10px 15px; display: inline-block;}
+header nav a:hover{background: #292929; color: #C6C6C6; }
+img {width: 100%; height: 500px;}
+.menu div img {width: 90px; height:90px; }
+.smk { padding-top: 30px;}
+
+.gam { width: 40px; height: 40px;}
+
+.bar {width: 40px;height: 40px;}
+.nto{color: #fff}
+.head img {width: 100%; }
+#edan{text-align: center;background: #292929; padding: 5px;color: #fff}
+h2{text-align: center;}
+
+#foto{width: 100%; margin: 50px;}
+#foto .terbaru .banner{width: 30%;float: left; padding: 10px;height: 300px; }
+#foto .terbaru .banner a {text-decoration: none;color: #000}
+
